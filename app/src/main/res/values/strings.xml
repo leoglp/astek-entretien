@@ -1,3 +1,33 @@
 <resources>
-    <string name="app_name">Astek Entretien</string>
+    <string name="app_name">Astek Support</string>
+
+    <!-- HomePage -->
+    <string name="mail">Adresse mail</string>
+    <string name="password">Mot de passe</string>
+    <string name="connect">connexion</string>
+    <string name="subscribe">Pas encore inscrit ?</string>
+
+    <!-- Authentification -->
+    <string name="authentication">Authentification…</string>
+    <string name="creation">Création du profil…</string>
+
+    <!-- ProfilCreation -->
+    <string name="question_who">Vous êtes :</string>
+    <string name="manager">MANAGER</string>
+    <string name="salarie">SALARIE</string>
+    <string name="name">Nom</string>
+    <string name="surname">Prénom</string>
+    <string name="society">Société</string>
+    <string name="birthDate">Date de naissance</string>
+    <string name="enterDate">Date d\'entrée chez Astek</string>
+    <string name="experiment">Nombre d\'années d\'experience totale</string>
+    <string name="function">Fonction</string>
+    <string name="diplom">Diplôme / Ecole</string>
+    <string name="obtentionDate">Date d\'obtention</string>
+    <string name="profilCreation">Créer le profil</string>
+
+
+
+
+
 </resources>
